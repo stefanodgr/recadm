@@ -1,0 +1,9 @@
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (1, 'Sin Estudios ' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (2, 'Bachiller' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (3, 'Técnico Incompleto' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (4, 'Técnico Completo' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (5, 'Universitario Imcompleto ' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (6, 'Universitario Completo' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (7, 'Doctorado' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (8, 'Postgrado' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `academiclevels`(`id`, `descripcion`, `created_at`, `updated_at`) VALUES (9, 'Maestria' ,'2020-04-19 21:55:55', '2020-04-19 21:55:55');

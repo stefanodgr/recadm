@@ -1,0 +1,71 @@
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (1,'DISTRITO CAPITAL','2020-04-19 21:55:55', '2020-04-19 21:55:55');
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (2,'ANZOATEGUI','2020-04-19 21:55:55', '2020-04-19 21:55:55');
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (3,'APURE','2020-04-19 21:55:55', '2020-04-19 21:55:55');
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (4,'ARAGUA','2020-04-19 21:55:55', '2020-04-19 21:55:55');
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`)
+     VALUES (5,'BARINAS','2020-04-19 21:55:55', '2020-04-19 21:55:55');       
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (6,'BOLIVAR','2020-04-19 21:55:55', '2020-04-19 21:55:55'); 
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (7,'CARABOBO','2020-04-19 21:55:55', '2020-04-19 21:55:55'); 
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (8,'COJEDES','2020-04-19 21:55:55', '2020-04-19 21:55:55'); 
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (9,'FALCON','2020-04-19 21:55:55', '2020-04-19 21:55:55') ;
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (10,'GUARICO','2020-04-19 21:55:55', '2020-04-19 21:55:55');      
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (11,'LARA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (12,'MERIDA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (13,'MIRANDA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (14,'MONAGAS','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (15,'NUEVA ESPARTA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (16,'PORTUGUESA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (17,'SUCRE','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (18,'TACHIRA','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (19,'TRUJILLO','2020-04-19 21:55:55', '2020-04-19 21:55:55');     
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (20,'YARACUY','2020-04-19 21:55:55', '2020-04-19 21:55:55'); 
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (21,'ZULIA','2020-04-19 21:55:55', '2020-04-19 21:55:55') ;
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (22,'AMAZONAS','2020-04-19 21:55:55', '2020-04-19 21:55:55') ;
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (23,'DELTA AMACURO','2020-04-19 21:55:55', '2020-04-19 21:55:55'); 
+
+INSERT INTO `estados`(`id`, `descripcion`, `created_at`, `updated_at`) 
+     VALUES (24,'LA GUAIRA','2020-04-19 21:55:55', '2020-04-19 21:55:55');                                                                      

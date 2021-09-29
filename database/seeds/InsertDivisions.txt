@@ -1,0 +1,27 @@
+
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (1, 'CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (2, 'Sindical CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (3, 'Agraria CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (4, 'Femenina CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (5, 'Educación CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (6, 'Juvenil CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (7, 'Profesionales y Tecnicos CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (8, 'Asuntos Municipales y Comunales CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (9, 'Cultura CES ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (10, 'Comité Ejecutivo Municipal 1 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (11, 'Comité Ejecutivo Municipal 2 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (12, 'Comité Ejecutivo Municipal 3 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (13, 'Sindical CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (14, 'Agraria CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (15, 'Femenina CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (16, 'Juvenil CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (17, 'Educación CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (18, 'Profesionales y Tecnicos CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (19, 'Asuntos Municipales y Comunales CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (20, 'Cultura CEN ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (21, 'Comité Ejecutivo Parroquial 1 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (22, 'Comité Ejecutivo Parroquial 2 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (23, 'Comité Ejecutivo Parroquial 3 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (24, 'Comité Local 1 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (25, 'Comité Local 2 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
+INSERT INTO `divisions`(`id`, `descripcion`, `status_id`, `created_at`, `updated_at`) VALUES (26, 'Comité Local 3 ',1,'2020-04-19 21:55:55', '2020-04-19 21:55:55');
